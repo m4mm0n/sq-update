@@ -1,0 +1,240 @@
+﻿{
+  "build": "20260619",
+  "channel": "stable",
+  "files": [
+    {
+      "bytes": 56832,
+      "crc32": "0FD4379E",
+      "kind": "asset",
+      "name": "LevelEditor/CopperSkin.Core.dll"
+    },
+    {
+      "bytes": 19696,
+      "crc32": "7ECF0C2A",
+      "kind": "asset",
+      "name": "LevelEditor/CopperSkin.Core.pdb"
+    },
+    {
+      "bytes": 23749,
+      "crc32": "EDEC5619",
+      "kind": "asset",
+      "name": "LevelEditor/CopperSkin.Core.xml"
+    },
+    {
+      "bytes": 63488,
+      "crc32": "5A84B001",
+      "kind": "asset",
+      "name": "LevelEditor/CopperSkin.Wpf.dll"
+    },
+    {
+      "bytes": 23264,
+      "crc32": "B9B012C9",
+      "kind": "asset",
+      "name": "LevelEditor/CopperSkin.Wpf.pdb"
+    },
+    {
+      "bytes": 33192,
+      "crc32": "2CADBD9C",
+      "kind": "asset",
+      "name": "LevelEditor/CopperSkin.Wpf.xml"
+    },
+    {
+      "bytes": 170496,
+      "crc32": "62CBF037",
+      "kind": "asset",
+      "name": "LevelEditor/QuickLog.dll"
+    },
+    {
+      "bytes": 1796,
+      "crc32": "BBD5B149",
+      "kind": "levels",
+      "name": "LevelEditor/SweetQuake.LevelEditor.deps.json"
+    },
+    {
+      "bytes": 129536,
+      "crc32": "CE402D63",
+      "kind": "asset",
+      "name": "LevelEditor/SweetQuake.LevelEditor.dll"
+    },
+    {
+      "bytes": 162816,
+      "crc32": "B6D8D885",
+      "kind": "engine",
+      "name": "LevelEditor/SweetQuake.LevelEditor.exe"
+    },
+    {
+      "bytes": 54788,
+      "crc32": "110D6454",
+      "kind": "asset",
+      "name": "LevelEditor/SweetQuake.LevelEditor.pdb"
+    },
+    {
+      "bytes": 519,
+      "crc32": "72FD093B",
+      "kind": "levels",
+      "name": "LevelEditor/SweetQuake.LevelEditor.runtimeconfig.json"
+    },
+    {
+      "bytes": 554378,
+      "crc32": "F611D9A9",
+      "kind": "levels",
+      "name": "levelpacks/default_levels.json"
+    },
+    {
+      "bytes": 1723,
+      "crc32": "4DD7D9FD",
+      "kind": "asset",
+      "name": "README_RELEASE.txt"
+    },
+    {
+      "bytes": 104916992,
+      "crc32": "C95F79ED",
+      "kind": "engine",
+      "name": "SweetQuake.exe"
+    },
+    {
+      "bytes": 26329644,
+      "crc32": "31EA8ADF",
+      "kind": "pack",
+      "name": "SweetQuake.pck"
+    },
+    {
+      "bytes": 56832,
+      "crc32": "0FD4379E",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/CopperSkin.Core.dll"
+    },
+    {
+      "bytes": 19696,
+      "crc32": "7ECF0C2A",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/CopperSkin.Core.pdb"
+    },
+    {
+      "bytes": 23749,
+      "crc32": "EDEC5619",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/CopperSkin.Core.xml"
+    },
+    {
+      "bytes": 63488,
+      "crc32": "5A84B001",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/CopperSkin.Wpf.dll"
+    },
+    {
+      "bytes": 23264,
+      "crc32": "B9B012C9",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/CopperSkin.Wpf.pdb"
+    },
+    {
+      "bytes": 33192,
+      "crc32": "2CADBD9C",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/CopperSkin.Wpf.xml"
+    },
+    {
+      "bytes": 170496,
+      "crc32": "62CBF037",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/QuickLog.dll"
+    },
+    {
+      "bytes": 1796,
+      "crc32": "BBD5B149",
+      "kind": "levels",
+      "name": "Tools/PackBuilder/SweetQuake.LevelEditor.deps.json"
+    },
+    {
+      "bytes": 129536,
+      "crc32": "CE402D63",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/SweetQuake.LevelEditor.dll"
+    },
+    {
+      "bytes": 162816,
+      "crc32": "B6D8D885",
+      "kind": "engine",
+      "name": "Tools/PackBuilder/SweetQuake.LevelEditor.exe"
+    },
+    {
+      "bytes": 54788,
+      "crc32": "110D6454",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/SweetQuake.LevelEditor.pdb"
+    },
+    {
+      "bytes": 519,
+      "crc32": "72FD093B",
+      "kind": "levels",
+      "name": "Tools/PackBuilder/SweetQuake.LevelEditor.runtimeconfig.json"
+    },
+    {
+      "bytes": 2223,
+      "crc32": "450F8935",
+      "kind": "levels",
+      "name": "Tools/PackBuilder/SweetQuake.PackBuilder.deps.json"
+    },
+    {
+      "bytes": 14336,
+      "crc32": "30DB2FA9",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/SweetQuake.PackBuilder.dll"
+    },
+    {
+      "bytes": 162816,
+      "crc32": "E5559C31",
+      "kind": "engine",
+      "name": "Tools/PackBuilder/SweetQuake.PackBuilder.exe"
+    },
+    {
+      "bytes": 15492,
+      "crc32": "6565FB53",
+      "kind": "asset",
+      "name": "Tools/PackBuilder/SweetQuake.PackBuilder.pdb"
+    },
+    {
+      "bytes": 519,
+      "crc32": "72FD093B",
+      "kind": "levels",
+      "name": "Tools/PackBuilder/SweetQuake.PackBuilder.runtimeconfig.json"
+    },
+    {
+      "bytes": 464,
+      "crc32": "B3354A58",
+      "kind": "levels",
+      "name": "Tools/UpdateCreator/SweetQuake.UpdateCreator.deps.json"
+    },
+    {
+      "bytes": 14336,
+      "crc32": "5129D8FB",
+      "kind": "asset",
+      "name": "Tools/UpdateCreator/SweetQuake.UpdateCreator.dll"
+    },
+    {
+      "bytes": 152064,
+      "crc32": "BDBAACAB",
+      "kind": "engine",
+      "name": "Tools/UpdateCreator/SweetQuake.UpdateCreator.exe"
+    },
+    {
+      "bytes": 13352,
+      "crc32": "12F92A75",
+      "kind": "asset",
+      "name": "Tools/UpdateCreator/SweetQuake.UpdateCreator.pdb"
+    },
+    {
+      "bytes": 340,
+      "crc32": "CA549382",
+      "kind": "levels",
+      "name": "Tools/UpdateCreator/SweetQuake.UpdateCreator.runtimeconfig.json"
+    }
+  ],
+  "game": "Sweet Quake",
+  "generated_utc": "2026-06-19T06:08:47.8992073Z",
+  "schema": 1,
+  "update_url": "https://github.com/m4mm0n/sq-update",
+  "updates": [],
+  "version": "0.1.0.0"
+}
