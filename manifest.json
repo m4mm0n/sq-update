@@ -93,8 +93,8 @@
       "name": "SweetQuake.exe"
     },
     {
-      "bytes": 25451312,
-      "crc32": "9FE23026",
+      "bytes": 25483376,
+      "crc32": "978CA2F5",
       "kind": "pack",
       "name": "SweetQuake.pck"
     },
@@ -232,7 +232,7 @@
     }
   ],
   "game": "Sweet Quake",
-  "generated_utc": "2026-06-21T19:08:59.5827510Z",
+  "generated_utc": "2026-06-21T19:47:00.4792058Z",
   "schema": 1,
   "update_url": "https://github.com/m4mm0n/sq-update",
   "updates": [],
