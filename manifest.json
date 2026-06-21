@@ -1,5 +1,5 @@
 ﻿{
-  "build": "20260619",
+  "build": "20260621",
   "channel": "stable",
   "files": [
     {
@@ -82,7 +82,7 @@
     },
     {
       "bytes": 1723,
-      "crc32": "4DD7D9FD",
+      "crc32": "B7A190B6",
       "kind": "asset",
       "name": "README_RELEASE.txt"
     },
@@ -93,8 +93,8 @@
       "name": "SweetQuake.exe"
     },
     {
-      "bytes": 26329644,
-      "crc32": "31EA8ADF",
+      "bytes": 25451312,
+      "crc32": "9FE23026",
       "kind": "pack",
       "name": "SweetQuake.pck"
     },
@@ -232,7 +232,7 @@
     }
   ],
   "game": "Sweet Quake",
-  "generated_utc": "2026-06-19T06:08:47.8992073Z",
+  "generated_utc": "2026-06-21T19:08:59.5827510Z",
   "schema": 1,
   "update_url": "https://github.com/m4mm0n/sq-update",
   "updates": [],

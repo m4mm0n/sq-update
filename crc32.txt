@@ -11,9 +11,9 @@ B6D8D885  162816  LevelEditor/SweetQuake.LevelEditor.exe
 110D6454  54788  LevelEditor/SweetQuake.LevelEditor.pdb
 72FD093B  519  LevelEditor/SweetQuake.LevelEditor.runtimeconfig.json
 F611D9A9  554378  levelpacks/default_levels.json
-4DD7D9FD  1723  README_RELEASE.txt
+B7A190B6  1723  README_RELEASE.txt
 C95F79ED  104916992  SweetQuake.exe
-31EA8ADF  26329644  SweetQuake.pck
+9FE23026  25451312  SweetQuake.pck
 0FD4379E  56832  Tools/PackBuilder/CopperSkin.Core.dll
 7ECF0C2A  19696  Tools/PackBuilder/CopperSkin.Core.pdb
 EDEC5619  23749  Tools/PackBuilder/CopperSkin.Core.xml
