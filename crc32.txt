@@ -1,4 +1,0 @@
-E9D4610F  738770  levelpacks/default_levels.json
-FC0625C3  1384  README_RELEASE.txt
-88A704A6  109431808  SweetQuake.exe
-653FC19B  25486960  SweetQuake.pck

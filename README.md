@@ -1,3 +1,3 @@
-# Sweet Quake Update Channel
+# Sweet Quake Content Channel
 
-Public update manifest and CRC32 index for Sweet Quake.
+Sealed rune payloads for automatic content checks.
