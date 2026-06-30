@@ -8,6 +8,12 @@ Published path:
 https://m4mm0n.github.io/sq-update/privacy/
 ```
 
+Meta User Data Deletion Callback URL:
+
+```text
+https://sweet-quake-scoreboard.sweetquake-zls.workers.dev/meta/data-deletion
+```
+
 Contacts:
 
 - Privacy and support: zls@darkmaster.no
