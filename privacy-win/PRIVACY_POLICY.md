@@ -26,7 +26,9 @@ Please do not send sensitive personal information in support messages unless it 
 
 ## Purchases on Windows Store
 
-The Windows Store build is prepared as a Store-specific release. External PayPal and Google Play purchase surfaces are removed from this build. If paid content is added for Windows Store later, it is planned to use the Microsoft Store commerce system or another Store-compliant flow and this policy will be updated before release.
+The Windows Store build offers optional coin and booster packs as Microsoft Store-managed consumable products. Microsoft handles checkout, payment information, pricing, licensing, and the Store-managed consumable balance. Sweet Quake may receive the purchased product identifier, quantity, transaction or tracking identifier, order identifier when available, purchase status, and information needed to fulfill or restore the purchase. The game keeps a small local fulfillment journal so an interrupted reward can be retried without granting it twice. ZeroLinez Softworx does not receive or store your complete payment-card details.
+
+External PayPal, redeem-code purchase, and Google Play purchase surfaces are not included in the Windows Store build.
 
 ## Local data
 
@@ -38,6 +40,7 @@ Information may be used to:
 
 - Run and maintain Sweet Quake.
 - Save and restore progress, settings, achievements, and scores.
+- Process, fulfill, and restore optional Microsoft Store purchases.
 - Provide optional cloud-save, leaderboard, tester, support, or community features.
 - Diagnose crashes, errors, performance issues, and compatibility problems.
 - Prevent fraud, cheating, abuse, and security incidents.
@@ -88,4 +91,3 @@ We may update this policy when Sweet Quake, platform requirements, services, or 
 Norway  
 Privacy and support: zls@darkmaster.no  
 Administrative contact: admin@darkmaster.no
-

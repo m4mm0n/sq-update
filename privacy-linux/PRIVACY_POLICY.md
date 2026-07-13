@@ -26,7 +26,7 @@ Please do not send sensitive personal information in support messages unless it 
 
 ## Purchases on Linux
 
-Linux builds may be distributed outside a platform store. If optional purchases are offered for Linux in the future, the purchase flow will be clearly disclosed before use and this policy will be updated. We do not receive or store full payment-card details.
+Direct Linux builds may show an optional external PayPal booster shop and a redeem-code field. Opening the shop leaves the game and opens a ZeroLinez Softworx web page. PayPal handles checkout and payment information. A completed order can issue a redeem code, which the player enters in Sweet Quake to claim the listed in-game reward. Sweet Quake and the ZeroLinez Softworx service may process the code, stable local player identifier or connected Facebook identifier, reward, redemption status, and transaction reference needed for support, fraud prevention, and one-time fulfillment. ZeroLinez Softworx does not receive or store your complete payment-card details.
 
 ## Local data
 
@@ -38,6 +38,7 @@ Information may be used to:
 
 - Run and maintain Sweet Quake.
 - Save and restore progress, settings, achievements, and scores.
+- Issue, validate, and fulfill optional external-shop redeem codes.
 - Provide optional cloud-save, leaderboard, tester, support, or community features.
 - Diagnose crashes, errors, performance issues, and compatibility problems.
 - Prevent fraud, cheating, abuse, and security incidents.
@@ -46,7 +47,7 @@ Information may be used to:
 
 ## Third-party services
 
-Depending on enabled features, Sweet Quake may use Cloudflare-hosted ZeroLinez Softworx services for scoreboards, redeem codes, cloud saves, tester features, and public legal pages; Facebook/Meta login or profile services; Discord community links or webhooks; and email provider services. Third-party providers may process information under their own terms and privacy policies. We do not sell personal information.
+Depending on enabled features, Sweet Quake may use PayPal for optional external checkout; Cloudflare-hosted ZeroLinez Softworx services for scoreboards, redeem codes, cloud saves, tester features, and public legal pages; Facebook/Meta login or profile services; Discord community links or webhooks; and email provider services. Third-party providers may process information under their own terms and privacy policies. We do not sell personal information.
 
 ## Advertising
 
@@ -80,4 +81,3 @@ We may update this policy when Sweet Quake, platform requirements, services, or 
 Norway  
 Privacy and support: zls@darkmaster.no  
 Administrative contact: admin@darkmaster.no
-
